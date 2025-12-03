@@ -1,0 +1,12 @@
+FactoryTest.CreateOrk 1 0.00804127
+FactoryTest.CreateWillian 1 0.00792644
+FactoryTest.CreateWerewolf 1 0.00810634
+FactoryTest.InvalidCoordinates 1 0.0087583
+FactoryTest.UnknownType 1 0.00886962
+CombatTest.OrkKillsWillian 1 0.00828837
+CombatTest.WillianKillsWerewolf 1 0.00772604
+CombatTest.WerewolfKillsWillian 1 0.00821361
+CombatTest.OrkVsWerewolf_NoKill 1 0.00862444
+CombatTest.DistanceCheck 1 0.008624
+ObserverTest.NotificationSent 1 0.00805981
+---

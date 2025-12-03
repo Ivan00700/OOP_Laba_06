@@ -1,0 +1,300 @@
+Start testing: Dec 03 22:34 MSK
+----------------------------------------------------------
+1/11 Testing: FactoryTest.CreateOrk
+1/11 Test: FactoryTest.CreateOrk
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=FactoryTest.CreateOrk" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"FactoryTest.CreateOrk" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateOrk
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateOrk
+[       OK ] FactoryTest.CreateOrk (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateOrk" end time: Dec 03 22:34 MSK
+"FactoryTest.CreateOrk" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/11 Testing: FactoryTest.CreateWillian
+2/11 Test: FactoryTest.CreateWillian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=FactoryTest.CreateWillian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"FactoryTest.CreateWillian" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateWillian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateWillian
+[       OK ] FactoryTest.CreateWillian (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateWillian" end time: Dec 03 22:34 MSK
+"FactoryTest.CreateWillian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/11 Testing: FactoryTest.CreateWerewolf
+3/11 Test: FactoryTest.CreateWerewolf
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=FactoryTest.CreateWerewolf" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"FactoryTest.CreateWerewolf" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateWerewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateWerewolf
+[       OK ] FactoryTest.CreateWerewolf (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateWerewolf" end time: Dec 03 22:34 MSK
+"FactoryTest.CreateWerewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/11 Testing: FactoryTest.InvalidCoordinates
+4/11 Test: FactoryTest.InvalidCoordinates
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=FactoryTest.InvalidCoordinates" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"FactoryTest.InvalidCoordinates" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.InvalidCoordinates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.InvalidCoordinates
+[       OK ] FactoryTest.InvalidCoordinates (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.InvalidCoordinates" end time: Dec 03 22:34 MSK
+"FactoryTest.InvalidCoordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/11 Testing: FactoryTest.UnknownType
+5/11 Test: FactoryTest.UnknownType
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=FactoryTest.UnknownType" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"FactoryTest.UnknownType" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.UnknownType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.UnknownType
+[       OK ] FactoryTest.UnknownType (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.UnknownType" end time: Dec 03 22:34 MSK
+"FactoryTest.UnknownType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/11 Testing: CombatTest.OrkKillsWillian
+6/11 Test: CombatTest.OrkKillsWillian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=CombatTest.OrkKillsWillian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"CombatTest.OrkKillsWillian" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.OrkKillsWillian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.OrkKillsWillian
+[       OK ] CombatTest.OrkKillsWillian (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.OrkKillsWillian" end time: Dec 03 22:34 MSK
+"CombatTest.OrkKillsWillian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/11 Testing: CombatTest.WillianKillsWerewolf
+7/11 Test: CombatTest.WillianKillsWerewolf
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=CombatTest.WillianKillsWerewolf" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"CombatTest.WillianKillsWerewolf" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.WillianKillsWerewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.WillianKillsWerewolf
+[       OK ] CombatTest.WillianKillsWerewolf (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.WillianKillsWerewolf" end time: Dec 03 22:34 MSK
+"CombatTest.WillianKillsWerewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/11 Testing: CombatTest.WerewolfKillsWillian
+8/11 Test: CombatTest.WerewolfKillsWillian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=CombatTest.WerewolfKillsWillian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"CombatTest.WerewolfKillsWillian" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.WerewolfKillsWillian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.WerewolfKillsWillian
+[       OK ] CombatTest.WerewolfKillsWillian (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.WerewolfKillsWillian" end time: Dec 03 22:34 MSK
+"CombatTest.WerewolfKillsWillian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/11 Testing: CombatTest.OrkVsWerewolf_NoKill
+9/11 Test: CombatTest.OrkVsWerewolf_NoKill
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=CombatTest.OrkVsWerewolf_NoKill" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"CombatTest.OrkVsWerewolf_NoKill" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.OrkVsWerewolf_NoKill
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.OrkVsWerewolf_NoKill
+[       OK ] CombatTest.OrkVsWerewolf_NoKill (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.OrkVsWerewolf_NoKill" end time: Dec 03 22:34 MSK
+"CombatTest.OrkVsWerewolf_NoKill" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/11 Testing: CombatTest.DistanceCheck
+10/11 Test: CombatTest.DistanceCheck
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=CombatTest.DistanceCheck" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"CombatTest.DistanceCheck" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.DistanceCheck
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.DistanceCheck
+[       OK ] CombatTest.DistanceCheck (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.DistanceCheck" end time: Dec 03 22:34 MSK
+"CombatTest.DistanceCheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/11 Testing: ObserverTest.NotificationSent
+11/11 Test: ObserverTest.NotificationSent
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_06/build/unit_tests" "--gtest_filter=ObserverTest.NotificationSent" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_06/build
+"ObserverTest.NotificationSent" start time: Dec 03 22:34 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_06/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.NotificationSent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.NotificationSent
+[       OK ] ObserverTest.NotificationSent (0 ms)
+[----------] 1 test from ObserverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.NotificationSent" end time: Dec 03 22:34 MSK
+"ObserverTest.NotificationSent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 03 22:34 MSK
